@@ -10,8 +10,8 @@ Machine Learning Yearning
 CS230 吴恩达斯坦福深度学习课程: [Depp Learning](http://cs230.stanford.edu/index.html)  
 参考: [机器之心 知乎](https://zhuanlan.zhihu.com/p/38327238)  
 
-CS20 Tensorflow for Deep Learning Research: 
-课程官网: http://web.stanford.edu/class/cs20si/   
+CS20 Tensorflow for Deep Learning Research  
+课程官网: http://web.stanford.edu/class/cs20si/    
 B站视频: https://www.bilibili.com/video/av15898988/?p=4
 
 
