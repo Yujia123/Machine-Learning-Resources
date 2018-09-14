@@ -7,7 +7,7 @@ Machine Learning Yearning
 
 
 ## 公开课
-CS230 吴恩达斯坦福深度学习课程: [Depp Learning](http://cs230.stanford.edu/index.html)
+CS230 吴恩达斯坦福深度学习课程: [Depp Learning](http://cs230.stanford.edu/index.html)  
 参考: [机器之心 知乎](https://zhuanlan.zhihu.com/p/38327238)
 
 
