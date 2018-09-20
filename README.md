@@ -6,6 +6,18 @@ Machine Learning Yearning
 中文翻译版: [机器学习训练秘籍](https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/)
 
 
+## 数学基础
+
+[机器学习的数学基础](http://www.ai-start.com/dl2017/html/math.html#header-n101)
+
+
+## Tensorflow 
+
+[TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+[TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
+[TensorFlow 中文社区 教程](http://www.tensorfly.cn/tfdoc/get_started/introduction.html)
+
+
 ## 公开课
 CS230 吴恩达斯坦福深度学习课程: [Depp Learning](http://cs230.stanford.edu/index.html)  
 参考: [吴恩达授课，斯坦福CS230深度学习课程资源开放](https://zhuanlan.zhihu.com/p/38327238); &nbsp;&nbsp; [吴恩达课程从未失望，斯坦福CS230深度学习课程全套资料放出](https://zhuanlan.zhihu.com/p/38426219)
