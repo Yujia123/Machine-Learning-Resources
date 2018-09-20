@@ -8,14 +8,14 @@ Machine Learning Yearning
 
 ## 数学基础
 
-[机器学习的数学基础](http://www.ai-start.com/dl2017/html/math.html#header-n101)
+[机器学习的数学基础](http://www.ai-start.com/dl2017/html/math.html#header-n101)  
 
 
 ## Tensorflow 
 
-[TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-[TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
-[TensorFlow 中文社区 教程](http://www.tensorfly.cn/tfdoc/get_started/introduction.html)
+[TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)  
+[TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)  
+[TensorFlow 中文社区 教程](http://www.tensorfly.cn/tfdoc/get_started/introduction.html)  
 
 
 ## 公开课
