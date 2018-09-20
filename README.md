@@ -2,6 +2,9 @@
 机器学习资料
 
 
+## 机器学习
+[机器学习算法集锦：从贝叶斯到深度学习及各自优缺点](https://zhuanlan.zhihu.com/p/25327755)  
+
 Machine Learning Yearning
 中文翻译版: [机器学习训练秘籍](https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/)
 
@@ -16,6 +19,7 @@ Machine Learning Yearning
 [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)  
 [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)  
 [TensorFlow 中文社区 教程](http://www.tensorfly.cn/tfdoc/get_started/introduction.html)  
+[Learning tensorflow by just one example for beginners.](https://github.com/yule-li/tensorflow-practice)
 
 
 ## 公开课
