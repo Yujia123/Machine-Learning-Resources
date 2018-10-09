@@ -43,3 +43,12 @@ https://github.com/wqw547243068/wangqiwen#github%E7%BC%96%E8%BE%91
 
 https://devdocs.io
 
+
+### 其它
+
+自然指数(nature index)
+世界顶级科学期刊《自然》制定的一个指标-。通过统计一年中在一流科学期刊上发表的论文，来衡量各个国家或各个研究机构的基础研究产出。
+https://www.natureindex.com/annual-tables/2018/country/all
+
+
+
