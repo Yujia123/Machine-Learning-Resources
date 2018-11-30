@@ -8,6 +8,8 @@
 Machine Learning Yearning
 中文翻译版: [机器学习训练秘籍](https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/)
 
+[机器学习资源汇总(tensorflow)](http://tensorfly.cn/tfdoc/mltools.html)
+
 ## 深度学习
 [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 
