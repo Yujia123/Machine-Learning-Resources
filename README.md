@@ -26,6 +26,8 @@ Machine Learning Yearning
 [TensorFlow 中文社区 教程](http://www.tensorfly.cn/tfdoc/get_started/introduction.html)  
 [Learning tensorflow by just one example for beginners.](https://github.com/yule-li/tensorflow-practice)
 
+[Tensorflow: convert .hdf5 to tfrecord](https://stackoverflow.com/questions/51754968/tensorflow-convert-hdf5-to-tfrecord)
+[hdf5-to-tfrecord](https://github.com/risteon/hdf5-to-tfrecord/blob/master/hdf5-to-tfrecord.py)
 
 ## Deeplearning 笔记
 [吴恩达深度学习课程网址&作业&课件](https://www.jianshu.com/p/769fc6fe9b0a)  
