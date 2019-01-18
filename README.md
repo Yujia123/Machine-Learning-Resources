@@ -40,7 +40,9 @@ CS20 Tensorflow for Deep Learning Research
 课程官网: http://web.stanford.edu/class/cs20si/    
 B站视频: https://www.bilibili.com/video/av15898988/?p=4
 
-
+## Python
+[Python source code](https://github.com/python/cpython)
+[Python source code for list class](https://github.com/python/cpython/blob/master/Objects/listobject.c)
 
 相关博客
 https://github.com/wqw547243068/wangqiwen#github%E7%BC%96%E8%BE%91
