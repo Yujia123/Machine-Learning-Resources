@@ -29,8 +29,10 @@ Machine Learning Yearning
 [Tensorflow: convert .hdf5 to tfrecord](https://stackoverflow.com/questions/51754968/tensorflow-convert-hdf5-to-tfrecord)
 [hdf5-to-tfrecord](https://github.com/risteon/hdf5-to-tfrecord/blob/master/hdf5-to-tfrecord.py)
 
+
 ## Deeplearning 笔记
 [吴恩达深度学习课程网址&作业&课件](https://www.jianshu.com/p/769fc6fe9b0a)  
+
 
 ## 公开课
 CS230 吴恩达斯坦福深度学习课程: [Depp Learning](http://cs230.stanford.edu/index.html)  
@@ -40,10 +42,6 @@ CS20 Tensorflow for Deep Learning Research
 课程官网: http://web.stanford.edu/class/cs20si/    
 B站视频: https://www.bilibili.com/video/av15898988/?p=4
 
-## Python
-[Python source code](https://github.com/python/cpython)
-[Python source code for list class](https://github.com/python/cpython/blob/master/Objects/listobject.c)
-
 相关博客
 https://github.com/wqw547243068/wangqiwen#github%E7%BC%96%E8%BE%91
 
@@ -51,6 +49,11 @@ https://github.com/wqw547243068/wangqiwen#github%E7%BC%96%E8%BE%91
 ### 相关编程语言参考
 
 https://devdocs.io
+
+
+## Python
+[Python source code](https://github.com/python/cpython)
+[Python source code for list class](https://github.com/python/cpython/blob/master/Objects/listobject.c)
 
 
 ### 其它
