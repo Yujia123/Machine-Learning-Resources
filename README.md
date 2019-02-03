@@ -4,11 +4,11 @@
 
 ## 机器学习
 
-100 Days Of ML Code (机器学习100天)
-地址:
-http://github.com/Avik-Jain/100-Days--Of-ML-Code
-中文版地址:
-http://github.com/Avik-Jain/100-Days--Of-ML-Code-Chinese-Version
+100 Days Of ML Code (机器学习100天)    
+地址:    
+http://github.com/Avik-Jain/100-Days--Of-ML-Code    
+中文版地址:    
+http://github.com/Avik-Jain/100-Days--Of-ML-Code-Chinese-Version    
 
 
 [机器学习算法集锦：从贝叶斯到深度学习及各自优缺点](https://zhuanlan.zhihu.com/p/25327755)  
