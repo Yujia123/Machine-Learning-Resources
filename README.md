@@ -41,8 +41,8 @@ CS230 吴恩达斯坦福深度学习课程: [Depp Learning](http://cs230.stanfor
 
 CS20 Tensorflow for Deep Learning Research  
 课程官网: http://web.stanford.edu/class/cs20si/    
-B站视频: https://www.bilibili.com/video/av15898988/?p=4
-CS 翻译: https://github.com/Light-City/Translating_documents   公众号：光城
+B站视频: https://www.bilibili.com/video/av15898988/?p=4    
+CS 翻译: https://github.com/Light-City/Translating_documents   公众号：光城    
 
 相关博客
 https://github.com/wqw547243068/wangqiwen#github%E7%BC%96%E8%BE%91
