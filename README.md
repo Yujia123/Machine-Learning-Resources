@@ -4,6 +4,9 @@
 
 ## 机器学习
 
+[李宏毅机器学习笔记(LeeML-Notes)](https://datawhalechina.github.io/leeml-notes/#/)  
+Github: https://github.com/datawhalechina/leeml-notes  
+
 [机器学习算法集锦：从贝叶斯到深度学习及各自优缺点](https://zhuanlan.zhihu.com/p/25327755)  
 
 Machine Learning Yearning
